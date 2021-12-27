@@ -1,12 +1,12 @@
-### Olá, meu nome é Matheus Rodrigues! Estudante de programação Front-end 👋🖥
+   ### Olá, meu nome é Matheus Rodrigues! Estudante de programação Front-end 👋🖥
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/mthsrodrigues">
-  <img width="400em" height="195em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="450em" height="195em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img width="380em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <!-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
