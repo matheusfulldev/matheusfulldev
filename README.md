@@ -21,7 +21,7 @@
   
 <hr> <br>
   
-  ### Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
+  ### ⠀⠀  ⠀⠀  ⠀⠀  Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
 <div align="left"> 
 - 🔭 No momento, estou a procura de vagas júnior! <br>
 - 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann) <br>
