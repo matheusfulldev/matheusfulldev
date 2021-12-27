@@ -2,22 +2,22 @@
 
 <div align="center">
   <a href="https://github.com/mthsrodrigues">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <hr> <br>
 
   ### Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
-
- 🔭 No momento, estou a procura de vagas júnior!
- 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann)
- 👯 Procurando novas amizades e sempre evoluir +
- 📫 Como entrar em contato comigo? <br>
- ⠀⠀ ⠀⠀Segue as opções abaixo: <br>
+<div align="left"> 
+- 🔭 No momento, estou a procura de vagas júnior! <br>
+- 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann) <br>
+- 👯 Procurando novas amizades e sempre evoluir + <br>
+- 📫 Como entrar em contato comigo? <br>
+ ⠀⠀ Segue as opções abaixo: <br> <br>
 Email: matheusfulldev@gmail.com <br>
 Telefone (Whatsapp): +55 (21) 98364-4245 <br>
 Discord: Matheus Rodrigues#4656 <br>
-<hr> <br>
+  <hr> <br> </div>
 - ⚡ Fato engraçado: Curioso de forma excessiva XD (esses dias eu estava analisando a quantidade de views das músicas mais famosas e reparei que as com 1bilhão+ de views quase 99% delas se tratam sobre relacionamentos amorosos de alguma forma, EX: Adele - Rolling in the deep | Bruno Mars - Talking to the moon | Ed Sheeran - Photograph | Maroon 5 - Girls like you | The Chainsmokers & Coldplay - Something just like this) e etc. Eu lembro de ter procurando por horas e só encontrei uma música com 1b+ de views que não se trata sobre relacionamentos: Billie Eilish, Khalid - lovely, no entanto, se trata sobre outro assunto bastante atual e polêmico: a depressão.
 
 
