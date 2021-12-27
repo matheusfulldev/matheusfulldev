@@ -1,9 +1,9 @@
 ### Olá, meu nome é Matheus Rodrigues! Tudo bem com você? 👋
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/mthsrodrigues">
-  <img width="1300em" height="180em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   <div style="display: inline_block"><br>
