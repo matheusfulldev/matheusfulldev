@@ -5,7 +5,7 @@ Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
 - 🔭 No momento, estou a procura de vagas júnior!
 - 🌱 Estudando, Html, CSS e JS (com o professor @jonasschmedtmann)
 - 👯 Procurando novas amizades e sempre evoluir +
-- 📫 Como entrar em contato comigo? 
+- 📫 Como entrar em contato comigo? <br>
    Segue as opções abaixo: <br>
 Email: matheusfulldev@gmail.com <br>
 Telefone (Whatsapp): +55 (21) 98364-4245 <br>
