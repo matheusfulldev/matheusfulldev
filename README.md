@@ -1,4 +1,4 @@
-### Olá, meu nome é Matheus Rodrigues! Tudo bem com você? 👋
+### Olá, meu nome é Matheus Rodrigues! Estudante de programação Front-end 👋🖥
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/mthsrodrigues">
