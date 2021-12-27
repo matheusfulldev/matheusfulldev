@@ -2,17 +2,17 @@
 
 <div align="center">
   <a href="https://github.com/mthsrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr> <br>
 
   ### Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
 
-- 🔭 No momento, estou a procura de vagas júnior!
-- 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann)
-- 👯 Procurando novas amizades e sempre evoluir +
-- 📫 Como entrar em contato comigo? <br>
+ 🔭 No momento, estou a procura de vagas júnior!
+ 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann)
+ 👯 Procurando novas amizades e sempre evoluir +
+ 📫 Como entrar em contato comigo? <br>
  ⠀⠀ ⠀⠀Segue as opções abaixo: <br>
 Email: matheusfulldev@gmail.com <br>
 Telefone (Whatsapp): +55 (21) 98364-4245 <br>
