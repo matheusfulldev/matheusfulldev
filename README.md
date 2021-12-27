@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr> <br>
-Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
+
+  Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
 
 - 🔭 No momento, estou a procura de vagas júnior!
 - 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann)
