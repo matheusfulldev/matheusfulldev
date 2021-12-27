@@ -22,16 +22,24 @@
 <hr> <br>
   
   ### ⠀⠀  ⠀⠀  ⠀⠀  Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
-<div align="left"> 
-- 🔭 No momento, estou a procura de vagas júnior! <br>
-- 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann) <br>
-- 👯 Procurando novas amizades e sempre evoluir + <br>
-- 📫 Como entrar em contato comigo? <br>
+<div style="text_decoration: none" align="left"> 
+<span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
+<span> - 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann) <span> <br>
+<span> - 👯 Procurando novas amizades e sempre evoluir + <span> <br>
+<span> - 📫 Como entrar em contato comigo? <br>
  ⠀⠀ Segue as opções abaixo: <br> <br>
-Email: matheusfulldev@gmail.com <br>
-Telefone (Whatsapp): +55 (21) 98364-4245 <br>
-Discord: Matheus Rodrigues#4656 <br>
-  <hr> <br> </div>
+   
+<div> 
+   
+   <div>
+  <a href="https://www.instagram.com/matheus_dev16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      
+  <a href = "mailto:matheusfulldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      
+  <a href="https://www.linkedin.com/in/matheus-rodrigues-20bb49225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      
+  <hr> <br> 
+   </div>
 
 
 
