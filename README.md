@@ -21,7 +21,8 @@
 <div style="text_decoration: none" align="left"> 
 <span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
 <span> - 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann) <span> <br>
-<span> - 👯 Procurando novas amizades e sempre evoluir + <span> <br>
+<span> - 📚 Hobbies: Programar e Ler, (amante de desenvolvimento pessoal 💝) <span> <br>
+<span> -✨🆙 Procurando sempre evoluir + <span> <br>
 <span> - 📫 Como entrar em contato comigo? <br>
  ⠀⠀ Segue as opções abaixo: <br> <br>
    
