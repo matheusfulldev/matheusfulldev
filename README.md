@@ -1,9 +1,9 @@
    ### Olá, meu nome é Matheus Rodrigues! Estudante de programação Front-end 👋🖥
 
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/mthsrodrigues">
-  <img width="450em" height="195em" src="https://github-readme-stats.vercel.app/api?username=mthsrodrigues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="390em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsrodrigues&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/matheusfulldev">
+  <img width="450em" height="195em" src="https://github-readme-stats.vercel.app/api?username=matheusfulldev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="390em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfulldev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   <div style="display: inline_block" align="center"><br>
@@ -20,7 +20,7 @@
   ### ⠀⠀  ⠀⠀  ⠀⠀  Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
 <div style="text_decoration: none" align="left"> 
 <span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
-<span> - 🌱 Estudando: Html, CSS e JS (com o professor @jonasschmedtmann) <span> <br>
+<span> - 🌱 Estudando: Html, CSS e JS (com o professor @gustavoguanabara) <span> <br>
 <span> - 📚 Hobbies: Programar e Ler, (amante de desenvolvimento pessoal 💝) <span> <br>
 <span> -✨🆙 Procurando sempre evoluir + <span> <br>
 <span> - 📫 Como entrar em contato comigo? <br>
@@ -29,10 +29,10 @@
 </div> 
    
    <div>
-  <a href="https://www.instagram.com/matheus_dev16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheusfulldev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusfulldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-rodrigues-20bb49225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/matheus_fulldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+  <a href="www.linkedin.com/in/matheusfulldev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/matheusfulldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
   <a href="https://wa.me/+5521983644245" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
      
  ![Snake animation](https://github.com/mthsrodrigues/mthsrodrigues/blob/output/github-contribution-grid-snake.svg)
