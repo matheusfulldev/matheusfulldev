@@ -17,14 +17,14 @@
   
 <hr>
   
-  ### ⠀⠀  ⠀⠀  ⠀⠀  Abaixo segue algumas informações sobre mim 🥳😇
-<div style="text_decoration: none" align="left"> 
-<span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
+   <h3 style="align: center"> Abaixo segue algumas informações sobre mim 🥳😇 </h3>
+<div style="text_decoration: none" align="justify"> 
+<p style="text-align: justify"> <span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
 <span> - 🌱 Estudando: Html, CSS e JS (com o professor @gustavoguanabara) <span> <br>
 <span> - 📚 Hobbies: Programar e Ler, (amante de desenvolvimento pessoal 💝) <span> <br>
 <span> -✨🆙 Procurando sempre evoluir + <span> <br>
 <span> - 📫 Como entrar em contato comigo? <br>
- ⠀⠀ Segue as opções abaixo: <br> <br>
+ ⠀⠀ Segue as opções abaixo: </p> <br> <br>
    
 </div> 
    
