@@ -24,7 +24,7 @@
 <span> - 📚 Hobbies: Programar e Ler, (amante de desenvolvimento pessoal 💝) <span> <br>
 <span> -✨🆙 Procurando sempre evoluir + <span> <br>
 <span> - 📫 Como entrar em contato comigo? <br>
- ⠀⠀ Segue as opções abaixo: </p> <br> <br>
+ ⠀⠀ Segue as opções abaixo: </p> <br>
    
 </div> 
    
