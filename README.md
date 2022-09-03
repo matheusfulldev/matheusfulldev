@@ -1,4 +1,4 @@
-   ### Olá, meu nome é Matheus Rodrigues! Estudante de programação Front-end 👋🖥
+   ##    Olá, meu nome é Matheus Rodrigues! Estudante de programação Front-end 👋🖥
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/matheusfulldev">
@@ -15,9 +15,9 @@
   <a href="https://imgur.com/V4bezia"><img align="right" height="100" width="100" src="https://i.imgur.com/V4bezia.png" title="source: imgur.com" /></a>
 </div>
   
-<hr> <br>
+<hr>
   
-  ### ⠀⠀  ⠀⠀  ⠀⠀  Abaixo segue algumas informações sobre mim (atualmente) 🥳😇
+  ### ⠀⠀  ⠀⠀  ⠀⠀  Abaixo segue algumas informações sobre mim 🥳😇
 <div style="text_decoration: none" align="left"> 
 <span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
 <span> - 🌱 Estudando: Html, CSS e JS (com o professor @gustavoguanabara) <span> <br>
