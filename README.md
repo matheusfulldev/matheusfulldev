@@ -1,4 +1,4 @@
-   ##    Olá, meu nome é Matheus Ramos! Estudante de programação Front-end 👋🖥
+   ##    Oiiew, me chamo Matheus Ramos!
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/matheusfulldev">
@@ -12,6 +12,8 @@
   <img align="center" alt="Matheus-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Matheus-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Matheus-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Matheus-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
   <a href="https://imgur.com/V4bezia"><img align="right" height="100" width="100" src="https://i.imgur.com/V4bezia.png" title="source: imgur.com" /></a>
 </div>
   
@@ -19,10 +21,10 @@
   
    <h3 style="align: center"> Abaixo segue algumas informações sobre mim 🥳😇 </h3>
 <div style="text_decoration: none" align="justify"> 
-<p style="text-align: justify"> <span> - 🔭 No momento, estou a procura de vagas júnior! <span> <br>
-<span> - 🌱 Estudando: Html, CSS e JS (com o professor @gustavoguanabara) <span> <br>
-<span> - 📚 Hobbies: Programar e Ler, (amante de desenvolvimento pessoal 💝) <span> <br>
-<span> -✨🆙 Procurando sempre evoluir + <span> <br>
+<p style="text-align: justify"> <span> - 🔭 Aceito propostas pra júnior. <span> <br>
+<span> - 🌱 Estudando: Front-end + Sass <span> <br>
+<span> - 📚 Hobbies: Estudar e assistir anime, (amante de desenvolvimento pessoal 💝) <span> <br>
+<span> -✨ Procurando sempre evoluir + <span> <br>
 <span> - 📫 Como entrar em contato comigo? <br>
  ⠀⠀ Segue as opções abaixo: </p> <br>
    
