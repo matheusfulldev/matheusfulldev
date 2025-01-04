@@ -22,7 +22,7 @@
    <h3 style="align: center"> Abaixo segue algumas informações sobre mim 🥳😇 </h3>
 <div style="text_decoration: none" align="justify"> 
 <p style="text-align: justify"> <span> - 🔭 Aceito propostas pra júnior. <span> <br>
-<span> - 🌱 Estudando: Front-end + Sass <span> <br>
+<span> - 🌱 Estudando: Front-end (react.js) e Back-end (node.js) <span> <br>
 <span> - 📚 Hobbies: Estudar e assistir anime, (amante de desenvolvimento pessoal 💝) <span> <br>
 <span> -✨ Procurando sempre evoluir + <span> <br>
 <span> - 📫 Como entrar em contato comigo? <br>
